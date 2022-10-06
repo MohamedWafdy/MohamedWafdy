@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedWafdy
-- 👀 I’m interested in --> (Web-Development & Software_Development)
-- 🌱 I’m currently learning --> (Moblie Application)
+- 👀 I’m interested in --> ( Web-Development & Software_Development )
+- 🌱 I’m currently learning --> ( Moblie Application )
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (Twitter --> @Mido_Wheezy)
+- 📫 How to reach me ( Twitter --> @Mido_Wheezy )
